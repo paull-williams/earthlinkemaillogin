@@ -1,18 +1,15 @@
 How to Access Your EarthLink Email Login Account?
 ============================================
 
+
+
+EarthLink is a prominent Internet service provider that also offers a suite of services, including email hosting. With millions of users across the country, EarthLink provides its customers with a reliable email platform that supports both personal and business communication. Logging into your EarthLink email account is essential to access your messages, contacts, settings, and other features. This guide will walk you through the steps for logging into your EarthLink email account and troubleshooting common login issues.
+
 .. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://aclportal.com/
-
-EarthLink Email Login Guide
-===========================
-
-**Overview**
-------------
-EarthLink is a prominent Internet service provider that also offers a suite of services, including email hosting. With millions of users across the country, EarthLink provides its customers with a reliable email platform that supports both personal and business communication. Logging into your EarthLink email account is essential to access your messages, contacts, settings, and other features. This guide will walk you through the steps for logging into your EarthLink email account and troubleshooting common login issues.
 
 **Prerequisites**
 ----------------
